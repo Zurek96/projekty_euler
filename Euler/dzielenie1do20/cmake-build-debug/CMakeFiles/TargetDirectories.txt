@@ -1,0 +1,3 @@
+C:/Users/Marcin/CLionProjects/Euler/dzielenie1do20/cmake-build-debug/CMakeFiles/dzielenie1do20.dir
+C:/Users/Marcin/CLionProjects/Euler/dzielenie1do20/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Marcin/CLionProjects/Euler/dzielenie1do20/cmake-build-debug/CMakeFiles/rebuild_cache.dir

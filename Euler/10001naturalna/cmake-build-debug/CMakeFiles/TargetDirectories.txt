@@ -1,0 +1,3 @@
+C:/Users/Marcin/CLionProjects/Euler/10001naturalna/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Marcin/CLionProjects/Euler/10001naturalna/cmake-build-debug/CMakeFiles/10001naturalna.dir
+C:/Users/Marcin/CLionProjects/Euler/10001naturalna/cmake-build-debug/CMakeFiles/edit_cache.dir
